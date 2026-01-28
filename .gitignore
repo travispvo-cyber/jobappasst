@@ -2,6 +2,7 @@
 .mcp.json
 .env
 .env.*
+!.env.example
 *.env
 
 # Claude Code local settings (user-specific)
