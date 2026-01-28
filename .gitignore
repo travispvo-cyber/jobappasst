@@ -1,0 +1,39 @@
+# Secrets and API keys
+.mcp.json
+.env
+.env.*
+*.env
+
+# Claude Code local settings (user-specific)
+.claude/settings.local.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Database files (may contain sensitive data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

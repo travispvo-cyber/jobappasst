@@ -1,0 +1,226 @@
+{
+  "name": "Brittany Nguyen",
+  "email": "brittanylenguyen@gmail.com",
+  "phone": "(713) 480-6230",
+  "skills": [
+    {
+      "name": "Project Management",
+      "category": "concept",
+      "level": "advanced",
+      "years": 2.5,
+      "context": "Managing high-visibility cross-functional initiatives and clinical operations projects"
+    },
+    {
+      "name": "Six Sigma",
+      "category": "concept",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Applied methodology for clinical safety and effectiveness projects"
+    },
+    {
+      "name": "RIDAC Tracking",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 0.5,
+      "context": "Project management practices for transparency and accountability"
+    },
+    {
+      "name": "Microsoft Excel",
+      "category": "tool",
+      "level": "advanced",
+      "years": 5,
+      "context": "Financial analysis, data input, spreadsheets and dashboards"
+    },
+    {
+      "name": "PowerBI",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 1,
+      "context": "Data analytics and reporting"
+    },
+    {
+      "name": "Microsoft Project",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 2.5,
+      "context": "Project timeline development and management"
+    },
+    {
+      "name": "Budget Management",
+      "category": "concept",
+      "level": "advanced",
+      "years": 4,
+      "context": "Managing ~$10M Operations and Maintenance budget using Zero-Based budgeting"
+    },
+    {
+      "name": "Zero-Based Budgeting",
+      "category": "concept",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Applied to drive efficiency and cost savings"
+    },
+    {
+      "name": "Epic",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Healthcare information system"
+    },
+    {
+      "name": "Peoplesoft Financial Analytics",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 3,
+      "context": "Financial reporting and analysis"
+    },
+    {
+      "name": "Process Improvement",
+      "category": "concept",
+      "level": "advanced",
+      "years": 4,
+      "context": "Streamlined procurement processes achieving 48% reduction in outstanding purchase orders"
+    },
+    {
+      "name": "Cross-functional Team Leadership",
+      "category": "soft",
+      "level": "advanced",
+      "years": 2.5,
+      "context": "Coordinating clinical, operational, and executive stakeholders"
+    },
+    {
+      "name": "Mentoring",
+      "category": "soft",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Mentored administrative team members for professional growth"
+    },
+    {
+      "name": "Lean Concepts",
+      "category": "concept",
+      "level": "intermediate",
+      "years": 1,
+      "context": "Applied to healthcare processes"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Project Manager",
+      "company": "MD Anderson Cancer Center",
+      "industry": "Healthcare",
+      "start_date": "2024-06",
+      "end_date": "present",
+      "responsibilities": [
+        "Manage high-visibility, cross-functional initiatives to reduce hospital 30-day unplanned readmissions",
+        "Apply structured project management practices including RIDAC tracking, scope and schedule management, and status reporting",
+        "Oversee 80+ inpatient clinical operations data and analytics requests"
+      ],
+      "accomplishments": [
+        "Selected to represent organization at Epic's 2025 XGM conference",
+        "Streamlined analytics delivery and enhanced resource management"
+      ],
+      "skills_used": [
+        "Project Management",
+        "RIDAC Tracking",
+        "Cross-functional Team Leadership",
+        "Epic"
+      ]
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "MD Anderson Cancer Center",
+      "industry": "Healthcare",
+      "start_date": "2022-04",
+      "end_date": "2024-05",
+      "responsibilities": [
+        "Managed project meetings for Clinical Operations Data Office \u2013 Inpatient",
+        "Led Clinical Safety and Effectiveness project team using Six Sigma methodology",
+        "Facilitated planning and execution of Mock Code Program implementation",
+        "Developed and maintained program budgets for Code Blue Operations and Emergency Readiness"
+      ],
+      "accomplishments": [
+        "Successfully implemented Mock Code Program",
+        "Developed comprehensive downtime process for central scheduling"
+      ],
+      "skills_used": [
+        "Project Management",
+        "Six Sigma",
+        "Budget Management",
+        "Microsoft Project"
+      ]
+    },
+    {
+      "title": "Sr. Administrative Assistant",
+      "company": "MD Anderson Cancer Center",
+      "industry": "Healthcare",
+      "start_date": "2020-02",
+      "end_date": "2022-04",
+      "responsibilities": [
+        "Analyzed financial and business expense reports using spreadsheets and dashboards",
+        "Collaborated with upper leadership on Operations and Maintenance budget of ~$10M",
+        "Mentored and coached administrative team members"
+      ],
+      "accomplishments": [
+        "Achieved 48% reduction in outstanding purchase orders by streamlining procurement process",
+        "Utilized Zero-Based budgeting methodology to drive efficiency and cost savings"
+      ],
+      "skills_used": [
+        "Microsoft Excel",
+        "Budget Management",
+        "Zero-Based Budgeting",
+        "Process Improvement",
+        "Mentoring"
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "MD Anderson Cancer Center",
+      "industry": "Healthcare",
+      "start_date": "2019-08",
+      "end_date": "2020-02",
+      "responsibilities": [
+        "Provided administrative support to Director and Assistant Directors of Operations & Maintenance",
+        "Coordinated meetings, generated materials, and composed communications to stakeholders",
+        "Assisted with special projects including data clean-up for transition to Maximo CMMS"
+      ],
+      "accomplishments": [
+        "Developed and implemented comprehensive onboarding program"
+      ],
+      "skills_used": [
+        "Microsoft Office Suite",
+        "Process Improvement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "field": "Project Management and Process Improvement",
+      "institution": "University of Houston \u2013 Downtown, Marilyn Davies College of Business",
+      "graduation_date": "2024-08"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "field": "Economics",
+      "institution": "The University of Texas at Austin",
+      "graduation_date": "2017-12"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Texas Business Foundations Certificate",
+      "issuer": "McCombs School of Business"
+    },
+    {
+      "name": "Six Sigma Yellow Belt",
+      "issuer": "MD Anderson Cancer Center"
+    },
+    {
+      "name": "Applying Lean Concepts to Healthcare Processes (Intermediate)",
+      "issuer": "MD Anderson Cancer Center"
+    },
+    {
+      "name": "Power BI Learner",
+      "issuer": "MD Anderson Cancer Center"
+    }
+  ]
+}

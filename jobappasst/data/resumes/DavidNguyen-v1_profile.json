@@ -1,0 +1,187 @@
+{
+  "name": "David-Viet Nguyen",
+  "email": "Dvnguyen11@outlook.com",
+  "phone": "2818320972",
+  "location": "Houston",
+  "summary": "My goal is to build a long-term career in the information technology field with opportunities for career growth. I am looking for employment with a company or institution that offers me a positive atmosphere to learn new technologies and allow me to apply my assets for the betterment of the business.",
+  "skills": [
+    {
+      "name": "Systems Analysis",
+      "category": "technical",
+      "level": "advanced",
+      "years": 6.2,
+      "context": "Technical support and troubleshooting"
+    },
+    {
+      "name": "Troubleshooting",
+      "category": "technical",
+      "level": "advanced",
+      "years": 6.2,
+      "context": "Software deployment and licensing problems"
+    },
+    {
+      "name": "Application Analysis/Support",
+      "category": "technical",
+      "level": "advanced",
+      "years": 6.2,
+      "context": "AspenTech proprietary software support"
+    },
+    {
+      "name": "Application Implementation",
+      "category": "technical",
+      "level": "advanced",
+      "years": 6.2,
+      "context": "Customer business environments"
+    },
+    {
+      "name": "Hyper-V",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 6.2,
+      "context": "Virtualization platform"
+    },
+    {
+      "name": "SQL",
+      "category": "technical",
+      "level": "intermediate",
+      "years": 6.2,
+      "context": "Database support"
+    },
+    {
+      "name": "Salesforce",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 6.2,
+      "context": "Customer incident tracking"
+    },
+    {
+      "name": "SCCM",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 6.2,
+      "context": "Solution deployment"
+    },
+    {
+      "name": "Azure",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 6.2,
+      "context": "Cloud platform deployment"
+    },
+    {
+      "name": "AWS",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 6.2,
+      "context": "Cloud platform deployment"
+    },
+    {
+      "name": "Flexibility and Adaptability",
+      "category": "soft",
+      "level": "advanced",
+      "years": 8.7,
+      "context": "Customer support and technical roles"
+    },
+    {
+      "name": "Attention to Detail",
+      "category": "soft",
+      "level": "advanced",
+      "years": 8.7,
+      "context": "Technical support and system administration"
+    },
+    {
+      "name": "Analytical Thinking",
+      "category": "soft",
+      "level": "advanced",
+      "years": 8.7,
+      "context": "Problem solving and technical analysis"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sr Technical Support Consultant",
+      "company": "Aspen Technology, Inc.",
+      "industry": "Technology",
+      "start_date": "2017-11",
+      "end_date": "present",
+      "responsibilities": [
+        "Troubleshoot and resolved software deployment and licensing problems for AspenTech's proprietary software",
+        "Maintained customer service by tracking customer incidents through Salesforce",
+        "Authored technical white papers for AspenTech's web knowledgebase",
+        "Conducted pre-sales product demos",
+        "Assisted sales team in managing customer relationships",
+        "Deployed AspenTech solutions in customer business environments",
+        "Managed AspenTech's training platforms, CloudShare/Azure Labs, and maintained virtual machines"
+      ],
+      "accomplishments": [
+        "Maintained above 90% SLA rating",
+        "Conducted over 50 pre-sales product demos with 75% contract closure rate",
+        "Successfully deployed AspenTech solutions in over 20 customer business environments with 95% success rate",
+        "Led post-OPTIMIZE 21 training with 1,000 customers participating (5x increase from previous year)",
+        "Deployed User Certification Program with 2000 users taking online exams and 1500 certified users",
+        "Nearly 1,000 users posted digital badges on social media"
+      ],
+      "skills_used": [
+        "Systems Analysis",
+        "Troubleshooting",
+        "SQL",
+        "Hyper-V",
+        "Salesforce",
+        "SCCM",
+        "Azure",
+        "AWS"
+      ]
+    },
+    {
+      "title": "IT Support Technician",
+      "company": "Asian American Health Coalition (HOPE Clinic)",
+      "industry": "Healthcare",
+      "start_date": "2015-06",
+      "end_date": "2017-11",
+      "responsibilities": [
+        "Administered and maintained computer networks and related computing environments",
+        "Configured security settings and permissions for network access, internet web filtering, and electronic health records",
+        "Created and edited company website content",
+        "Collaborated in transitioning to centrally managed antivirus solution",
+        "Conducted regular data backups and disaster recovery tests"
+      ],
+      "accomplishments": [
+        "Ensured optimal performance and uptime of computing environments",
+        "Maintained data security and regulatory compliance",
+        "Improved efficiency and security of IT operations through system implementations"
+      ],
+      "skills_used": [
+        "Network Administration",
+        "Security Configuration",
+        "Website Management",
+        "Data Backup",
+        "Disaster Recovery"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration",
+      "field": "Management Information Systems",
+      "institution": "University of Houston, C.T. Bauer College of Business",
+      "graduation_date": "2014-12"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CEO Excellence Award",
+      "issuer": "Aspen Technology, Inc.",
+      "date": "2021-08"
+    },
+    {
+      "name": "CEO Excellence Award",
+      "issuer": "Aspen Technology, Inc.",
+      "date": "2020-08"
+    },
+    {
+      "name": "SMB FY22 Collaboration Recognition Award",
+      "issuer": "Aspen Technology, Inc.",
+      "date": "2022-01"
+    }
+  ]
+}

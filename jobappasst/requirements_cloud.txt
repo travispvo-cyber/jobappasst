@@ -1,0 +1,18 @@
+# Streamlit Cloud Deployment Requirements
+# Minimal dependencies for cloud session-based mode
+
+# Core
+streamlit>=1.28.0
+
+# Resume parsing
+pdfplumber>=0.10.0
+python-docx>=1.0.0
+
+# AI
+anthropic>=0.20.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Data processing
+python-dotenv>=1.0.0

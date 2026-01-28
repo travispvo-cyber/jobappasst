@@ -1,0 +1,160 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Profile Schema",
+  "description": "Expected structure for parsed resume profiles",
+  "type": "object",
+  "required": ["name", "skills", "experience"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Full name of the candidate",
+      "minLength": 1
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "Contact email address"
+    },
+    "phone": {
+      "type": "string",
+      "description": "Contact phone number"
+    },
+    "location": {
+      "type": "string",
+      "description": "City, State or geographic location"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Professional summary or objective"
+    },
+    "skills": {
+      "type": "array",
+      "description": "List of skills extracted from resume",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Skill name (e.g., Python, Project Management)"
+          },
+          "category": {
+            "type": "string",
+            "enum": ["technical", "soft", "tool", "concept"],
+            "description": "Category of the skill"
+          },
+          "level": {
+            "type": "string",
+            "enum": ["beginner", "intermediate", "advanced"],
+            "description": "Proficiency level"
+          },
+          "years": {
+            "type": "number",
+            "minimum": 0,
+            "description": "Years of experience with this skill"
+          },
+          "context": {
+            "type": "string",
+            "description": "Context where/how this skill was used"
+          }
+        }
+      }
+    },
+    "experience": {
+      "type": "array",
+      "description": "Work experience history",
+      "items": {
+        "type": "object",
+        "required": ["title", "company"],
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Job title"
+          },
+          "company": {
+            "type": "string",
+            "description": "Company name"
+          },
+          "industry": {
+            "type": "string",
+            "description": "Industry category"
+          },
+          "start_date": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}$|^present$",
+            "description": "Start date in YYYY-MM format"
+          },
+          "end_date": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}$|^present$",
+            "description": "End date in YYYY-MM format or 'present'"
+          },
+          "responsibilities": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "List of job responsibilities"
+          },
+          "accomplishments": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Key accomplishments or achievements"
+          },
+          "skills_used": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Skills used in this role"
+          }
+        }
+      }
+    },
+    "education": {
+      "type": "array",
+      "description": "Educational background",
+      "items": {
+        "type": "object",
+        "properties": {
+          "degree": {
+            "type": "string",
+            "description": "Degree earned"
+          },
+          "field": {
+            "type": "string",
+            "description": "Field of study"
+          },
+          "institution": {
+            "type": "string",
+            "description": "School or university name"
+          },
+          "graduation_date": {
+            "type": "string",
+            "description": "Graduation date"
+          }
+        }
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "description": "Professional certifications",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "issuer": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

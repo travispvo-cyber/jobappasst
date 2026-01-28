@@ -1,0 +1,308 @@
+{
+  "name": "Travis Vo",
+  "email": "travisphamvo@hotmail.com",
+  "phone": "281-248-3670",
+  "location": "Katy, Texas, United States",
+  "summary": "Healthcare Data Specialist with expertise in data intelligence, business operations analysis, and data engineering in healthcare environments",
+  "skills": [
+    {
+      "name": "Data Intelligence",
+      "category": "technical",
+      "level": "advanced",
+      "years": 5.5,
+      "context": "Healthcare claims ecosystem and business intelligence"
+    },
+    {
+      "name": "Data Engineering",
+      "category": "technical",
+      "level": "advanced",
+      "years": 3.0,
+      "context": "ETL processes and data pipeline architecture"
+    },
+    {
+      "name": "Health Information Management",
+      "category": "concept",
+      "level": "advanced",
+      "years": 6.0,
+      "context": "Healthcare revenue cycle and compliance workflows"
+    },
+    {
+      "name": "SQL",
+      "category": "technical",
+      "level": "advanced",
+      "years": 4.0,
+      "context": "Complex queries for data retrieval and manipulation"
+    },
+    {
+      "name": "Power BI",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 2.0,
+      "context": "Interactive dashboards and business intelligence reporting"
+    },
+    {
+      "name": "Tableau",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 3.0,
+      "context": "Data visualization and incident report analysis"
+    },
+    {
+      "name": "Snowflake",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 1.0,
+      "context": "Healthcare claims data warehouse"
+    },
+    {
+      "name": "dbt",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 1.0,
+      "context": "Data transformation in healthcare ecosystem"
+    },
+    {
+      "name": "UiPath RPA",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 1.0,
+      "context": "Healthcare claims processing automation"
+    },
+    {
+      "name": "Epic EHR",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 3.0,
+      "context": "Electronic health records management"
+    },
+    {
+      "name": "ServiceNow ITIL",
+      "category": "tool",
+      "level": "beginner",
+      "years": 1.0,
+      "context": "IT service management"
+    },
+    {
+      "name": "Python",
+      "category": "technical",
+      "level": "intermediate",
+      "years": 2.0,
+      "context": "Data science applications"
+    },
+    {
+      "name": "Revenue Cycle Management",
+      "category": "concept",
+      "level": "advanced",
+      "years": 7.0,
+      "context": "Healthcare financial operations and optimization"
+    },
+    {
+      "name": "HIPAA Compliance",
+      "category": "concept",
+      "level": "advanced",
+      "years": 6.0,
+      "context": "Healthcare privacy and security regulations"
+    },
+    {
+      "name": "CPT/ICD Coding",
+      "category": "technical",
+      "level": "intermediate",
+      "years": 4.0,
+      "context": "Medical coding and billing"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Business Operations Analyst",
+      "company": "HaloMD",
+      "industry": "Healthcare Technology",
+      "start_date": "2025-11",
+      "end_date": "present",
+      "responsibilities": [
+        "Architected comprehensive data lineage and technical documentation framework across multi-repository healthcare claims ecosystem",
+        "Led data pipeline mapping initiatives for DevOps optimization",
+        "Developed repository analysis methodologies and automation monitoring documentation for UIPath RPA systems"
+      ],
+      "accomplishments": [
+        "Enabled cross-functional teams to identify system dependencies and reduce risk in NSA/IDR compliance workflows",
+        "Created visual process documentation bridging technical architecture with business operations",
+        "Transformed undocumented technical debt into transparent, maintainable architecture"
+      ],
+      "skills_used": [
+        "dbt",
+        "Dagster",
+        "UiPath RPA",
+        "Snowflake",
+        "Data Engineering",
+        "Healthcare Claims"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Texas Children's Hospital",
+      "industry": "Healthcare",
+      "start_date": "2025-09",
+      "end_date": "present",
+      "responsibilities": [
+        "Extract, transform, and load (ETL) data from various sources to support business intelligence and reporting needs",
+        "Develop complex SQL queries to retrieve and manipulate data according to business requirements"
+      ],
+      "accomplishments": [
+        "Created interactive and insightful dashboards using Power BI to help stakeholders make informed decisions"
+      ],
+      "skills_used": [
+        "ETL",
+        "SQL",
+        "Power BI",
+        "Data Engineering"
+      ]
+    },
+    {
+      "title": "Business Systems Analyst",
+      "company": "Texas Children's Hospital",
+      "industry": "Healthcare",
+      "start_date": "2024-04",
+      "end_date": "present",
+      "responsibilities": [],
+      "accomplishments": [],
+      "skills_used": [
+        "Business Analysis",
+        "Healthcare Systems"
+      ]
+    },
+    {
+      "title": "Healthcare Consulting Analyst",
+      "company": "Huron",
+      "industry": "Healthcare Consulting",
+      "start_date": "2020-03",
+      "end_date": "2023-11",
+      "responsibilities": [
+        "Advised healthcare revenue cycle managers on process improvement strategies",
+        "Conducted comprehensive assessments of revenue cycle processes",
+        "Facilitated training sessions and workshops for healthcare staff on best practices"
+      ],
+      "accomplishments": [
+        "Enhanced efficiency and reduced operational costs",
+        "Identified key areas for improvement and implemented tailored solutions for optimization",
+        "Significantly improved workflow and patient billing accuracy"
+      ],
+      "skills_used": [
+        "Revenue Cycle Management",
+        "Process Improvement",
+        "Healthcare Consulting"
+      ]
+    },
+    {
+      "title": "Information Services Intern",
+      "company": "Texas Children's Hospital",
+      "industry": "Healthcare",
+      "start_date": "2019-10",
+      "end_date": "2019-11",
+      "responsibilities": [
+        "Analyzed and visualized incident report data to investigate root cause trends",
+        "Assisted in implementation and rollout of hospital wide upgrade of VOALTE healthcare communication platform"
+      ],
+      "accomplishments": [],
+      "skills_used": [
+        "ServiceNow ITIL",
+        "Tableau",
+        "Epic BEAKER",
+        "Data Analysis"
+      ]
+    },
+    {
+      "title": "Administrative Data Analyst Intern",
+      "company": "Clear Dermatology",
+      "industry": "Healthcare",
+      "start_date": "2019-02",
+      "end_date": "2019-05",
+      "responsibilities": [
+        "Research and analyzed financial health data using key performance indicators",
+        "Implementation of EHR patient portable kiosk and redesign process of patient check-in"
+      ],
+      "accomplishments": [
+        "Improved health revenue cycle",
+        "Increased efficiency in flow and mitigated bottlenecks"
+      ],
+      "skills_used": [
+        "KPI Analysis",
+        "EHR",
+        "Process Improvement"
+      ]
+    },
+    {
+      "title": "Office Administrator",
+      "company": "Ollin Sports Medicine and Athletics",
+      "industry": "Healthcare",
+      "start_date": "2014-02",
+      "end_date": "2017-07",
+      "responsibilities": [
+        "Engaged in cross-functional communications with patients, peers, and practitioners",
+        "Maintained and monitored facility to ensure HIPAA security and privacy rules compliance",
+        "Migrated health records into a cloud-based EMR system"
+      ],
+      "accomplishments": [
+        "Assisted in the transition from ICD-9 to ICD-10"
+      ],
+      "skills_used": [
+        "HIPAA Compliance",
+        "CPT Coding",
+        "ICD Coding",
+        "EMR Systems"
+      ]
+    },
+    {
+      "title": "Office Administrator",
+      "company": "Kumon North America, Inc.",
+      "industry": "Education",
+      "start_date": "2010-10",
+      "end_date": "2015-12",
+      "responsibilities": [
+        "Maintained collaborative relationship with leadership to engage in parent and children engagement",
+        "Prioritized and delegated work assignments to tutors and office administrators"
+      ],
+      "accomplishments": [],
+      "skills_used": [
+        "Leadership",
+        "Delegation",
+        "Communication"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Certificate",
+      "field": "Health Informatics & Healthcare Information Technology",
+      "institution": "The University of Texas at Austin - Red McCombs School of Business",
+      "graduation_date": "2019"
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Health/Health Care Administration/Management",
+      "institution": "University of Houston-Clear Lake",
+      "graduation_date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Introduction to Python for Data Science",
+      "issuer": "Unknown",
+      "date": "Unknown"
+    },
+    {
+      "name": "Introduction to SQL for Data Science",
+      "issuer": "Unknown",
+      "date": "Unknown"
+    },
+    {
+      "name": "Microsoft Office Specialist: Microsoft Office 2016",
+      "issuer": "Microsoft",
+      "date": "Unknown"
+    },
+    {
+      "name": "Project Management Instruction",
+      "issuer": "Unknown",
+      "date": "Unknown"
+    }
+  ]
+}

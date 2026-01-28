@@ -1,0 +1,226 @@
+{
+  "name": "Brandon Nguyen",
+  "email": "brandon.nguyen@live.com",
+  "phone": "281-701-1664",
+  "location": "Houston, Texas",
+  "summary": "Recent graduate with a Bachelor of Applied Technology in Cybersecurity and a strong foundation in network security, risk management, and incident response. Proven ability to lead teams, manage operations, and drive efficiency through process improvement. Demonstrates a strong ability to learn, adapt, and contribute to team success.",
+  "skills": [
+    {
+      "name": "Network Security",
+      "category": "technical",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Cybersecurity degree coursework and projects"
+    },
+    {
+      "name": "Risk Management",
+      "category": "concept",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Cybersecurity coursework and emerging threats risk assessment project"
+    },
+    {
+      "name": "Incident Response",
+      "category": "technical",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Cybersecurity coursework and policy development"
+    },
+    {
+      "name": "Cisco CCNA Fundamentals",
+      "category": "technical",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Networking and security skills"
+    },
+    {
+      "name": "Wireshark",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 1.5,
+      "context": "Network analysis and security"
+    },
+    {
+      "name": "Kali Linux",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 1.5,
+      "context": "Penetration testing projects"
+    },
+    {
+      "name": "Metasploit",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 1.5,
+      "context": "Penetration testing and vulnerability exploitation"
+    },
+    {
+      "name": "Active Directory",
+      "category": "technical",
+      "level": "beginner",
+      "years": 1,
+      "context": "Systems and compliance knowledge"
+    },
+    {
+      "name": "Python",
+      "category": "technical",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Penetration testing payload development"
+    },
+    {
+      "name": "Ubiquiti Unifi",
+      "category": "tool",
+      "level": "intermediate",
+      "years": 2,
+      "context": "Home network design and implementation"
+    },
+    {
+      "name": "Leadership",
+      "category": "soft",
+      "level": "advanced",
+      "years": 8,
+      "context": "Supervised teams of 5-10 people across multiple roles"
+    },
+    {
+      "name": "Process Optimization",
+      "category": "soft",
+      "level": "advanced",
+      "years": 6,
+      "context": "Implemented processes resulting in 124% sales increase"
+    },
+    {
+      "name": "Regulatory Compliance",
+      "category": "concept",
+      "level": "intermediate",
+      "years": 4,
+      "context": "Maintained compliance with environmental regulations and NIST standards"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Major Sales Associate",
+      "company": "Costco Wholesale",
+      "industry": "Retail",
+      "start_date": "2022-01",
+      "end_date": "present",
+      "responsibilities": [
+        "Setup, operate, and maintain major electronics including laptops, PCs, and TVs",
+        "Diagnose and resolve issues in electronic systems and components",
+        "Design and maintain the digital feed that is broadcast across the warehouse through a series of signal repeaters using POE technology"
+      ],
+      "accomplishments": [],
+      "skills_used": [
+        "Electronics troubleshooting",
+        "POE technology",
+        "System maintenance"
+      ]
+    },
+    {
+      "title": "Supervisor",
+      "company": "Costco Wholesale",
+      "industry": "Retail",
+      "start_date": "2020-01",
+      "end_date": "2022-01",
+      "responsibilities": [
+        "Supervised daily operations for a team of five to ensure member safety and operational efficiency",
+        "Maintained documents, records, and certifications to ensure compliance with state and local environmental regulations"
+      ],
+      "accomplishments": [
+        "Developed and implemented processes to enhance safety and streamline operations, resulting in a 124% increase in sales during COVID-19"
+      ],
+      "skills_used": [
+        "Leadership",
+        "Regulatory compliance",
+        "Process optimization",
+        "Team management"
+      ]
+    },
+    {
+      "title": "Tire Center Lead",
+      "company": "Costco Wholesale",
+      "industry": "Retail",
+      "start_date": "2018-01",
+      "end_date": "2020-01",
+      "responsibilities": [
+        "Managed a team of ten in a fast-paced, high-volume service environment, emphasizing leadership, task delegation, and team coordination",
+        "Enforced safety protocols through structured inspection and documentation"
+      ],
+      "accomplishments": [],
+      "skills_used": [
+        "Leadership",
+        "Team management",
+        "Safety protocols",
+        "Task delegation"
+      ]
+    },
+    {
+      "title": "Tire Installer",
+      "company": "Costco Wholesale",
+      "industry": "Retail",
+      "start_date": "2016-01",
+      "end_date": "2018-01",
+      "responsibilities": [
+        "Provided responsive, solution-focused service to members, demonstrating strong communication skills and the ability to troubleshoot issues effectively",
+        "Maintained and operated specialized equipment with strict adherence to safety protocols and operational procedures"
+      ],
+      "accomplishments": [],
+      "skills_used": [
+        "Customer service",
+        "Troubleshooting",
+        "Equipment operation",
+        "Safety protocols"
+      ]
+    },
+    {
+      "title": "Front-End Assistant",
+      "company": "Costco Wholesale",
+      "industry": "Retail",
+      "start_date": "2013-01",
+      "end_date": "2016-01",
+      "responsibilities": [
+        "Delivered exceptional front-line service while adapting quickly to support multiple departments",
+        "Demonstrated strong attention to detail while handling transactions with accuracy and efficiency"
+      ],
+      "accomplishments": [],
+      "skills_used": [
+        "Customer service",
+        "Attention to detail",
+        "Transaction processing",
+        "Adaptability"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Applied Technology",
+      "field": "Cybersecurity",
+      "institution": "Lone Star College \u2013 Cy-Fair",
+      "graduation_date": "2024"
+    },
+    {
+      "degree": "Associate of Applied Science",
+      "field": "Electrical Technology",
+      "institution": "Lone Star College \u2013 Tomball",
+      "graduation_date": "2018"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA Security+",
+      "issuer": "CompTIA"
+    },
+    {
+      "name": "UST Class A/B/C Certification",
+      "issuer": "Underground Storage Tank Program"
+    },
+    {
+      "name": "Electrical Certificate I & II",
+      "issuer": "Lone Star College"
+    },
+    {
+      "name": "Tire Industry Association (TIA) Certification",
+      "issuer": "Tire Industry Association"
+    }
+  ]
+}
